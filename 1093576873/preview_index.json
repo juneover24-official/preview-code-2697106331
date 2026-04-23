@@ -1,32 +1,8 @@
 {
   "qq_number": "2697106331",
   "group_number": "1093576873",
-  "updated_at": "2026-04-22T16:19:47.609455",
+  "updated_at": "2026-04-23T15:52:39.127860",
   "skins": [
-    {
-      "name": "你轻轻的 不融合 脆",
-      "file": "你轻轻的不融合脆.bds",
-      "thumb": "你轻轻的不融合脆.bds_py_26_light_thumb.png",
-      "full": "你轻轻的不融合脆.bds_py_26_light.png"
-    },
-    {
-      "name": "你轻轻的 不融合 闷",
-      "file": "你轻轻的不融合闷.bds",
-      "thumb": "你轻轻的不融合闷.bds_py_26_light_thumb.png",
-      "full": "你轻轻的不融合闷.bds_py_26_light.png"
-    },
-    {
-      "name": "素描 不融合 脆",
-      "file": "素描不融合脆.bds",
-      "thumb": "素描不融合脆.bds_py_26_light_thumb.png",
-      "full": "素描不融合脆.bds_py_26_light.png"
-    },
-    {
-      "name": "素描 不融合 闷",
-      "file": "素描不融合闷.bds",
-      "thumb": "素描不融合闷.bds_py_26_light_thumb.png",
-      "full": "素描不融合闷.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "素描不融合脆.bdi",
@@ -74,6 +50,30 @@
       "file": "你轻轻的融合脆.bdi",
       "thumb": "你轻轻的融合脆.bdi_py_26_light_thumb.png",
       "full": "你轻轻的融合脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "你轻轻的 不融合 脆",
+      "file": "你轻轻的不融合脆.bds",
+      "thumb": "你轻轻的不融合脆.bds_py_26_light_thumb.png",
+      "full": "你轻轻的不融合脆.bds_py_26_light.png"
+    },
+    {
+      "name": "你轻轻的 不融合 闷",
+      "file": "你轻轻的不融合闷.bds",
+      "thumb": "你轻轻的不融合闷.bds_py_26_light_thumb.png",
+      "full": "你轻轻的不融合闷.bds_py_26_light.png"
+    },
+    {
+      "name": "素描 不融合 脆",
+      "file": "素描不融合脆.bds",
+      "thumb": "素描不融合脆.bds_py_26_light_thumb.png",
+      "full": "素描不融合脆.bds_py_26_light.png"
+    },
+    {
+      "name": "素描 不融合 闷",
+      "file": "素描不融合闷.bds",
+      "thumb": "素描不融合闷.bds_py_26_light_thumb.png",
+      "full": "素描不融合闷.bds_py_26_light.png"
     }
   ]
 }
