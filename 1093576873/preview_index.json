@@ -1,7 +1,7 @@
 {
   "qq_number": "2697106331",
   "group_number": "1093576873",
-  "updated_at": "2026-04-23T15:52:39.127860",
+  "updated_at": "2026-06-04T08:50:24+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -74,6 +74,12 @@
       "file": "素描不融合闷.bds",
       "thumb": "素描不融合闷.bds_py_26_light_thumb.png",
       "full": "素描不融合闷.bds_py_26_light.png"
+    },
+    {
+      "name": "残業の夜不融合脆",
+      "file": "残業の夜不融合脆.bdi",
+      "thumb": "残業の夜不融合脆.bdi_py_26_light_thumb.png",
+      "full": "残業の夜不融合脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
