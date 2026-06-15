@@ -1,7 +1,7 @@
 {
   "qq_number": "2697106331",
   "group_number": "1093576873",
-  "updated_at": "2026-06-15T19:18:48+00:00",
+  "updated_at": "2026-06-15T19:19:55+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -128,6 +128,12 @@
       "file": "星たけか知る凶殺融合闷.bdi",
       "thumb": "星たけか知る凶殺融合闷.bdi_py_26_light_thumb.png",
       "full": "星たけか知る凶殺融合闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "星たけか知る凶殺融合脆",
+      "file": "星たけか知る凶殺融合脆.bdi",
+      "thumb": "星たけか知る凶殺融合脆.bdi_py_26_light_thumb.png",
+      "full": "星たけか知る凶殺融合脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
