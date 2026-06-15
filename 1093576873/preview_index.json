@@ -1,7 +1,7 @@
 {
   "qq_number": "2697106331",
   "group_number": "1093576873",
-  "updated_at": "2026-06-15T19:15:58+00:00",
+  "updated_at": "2026-06-15T19:16:33+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -98,6 +98,12 @@
       "file": "星たけか知る凶殺不融合脆.bdi",
       "thumb": "星たけか知る凶殺不融合脆.bdi_py_26_light_thumb.png",
       "full": "星たけか知る凶殺不融合脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "残業の夜融合脆",
+      "file": "残業の夜融合脆.bdi",
+      "thumb": "残業の夜融合脆.bdi_py_26_light_thumb.png",
+      "full": "残業の夜融合脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
