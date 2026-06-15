@@ -1,7 +1,7 @@
 {
   "qq_number": "2697106331",
   "group_number": "1093576873",
-  "updated_at": "2026-06-04T08:57:19+00:00",
+  "updated_at": "2026-06-15T19:15:22+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -86,6 +86,12 @@
       "file": "OxO融合脆.bdi",
       "thumb": "OxO融合脆.bdi_py_26_light_thumb.png",
       "full": "OxO融合脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "纯代不融合脆",
+      "file": "纯代不融合脆.bdi",
+      "thumb": "纯代不融合脆.bdi_py_26_light_thumb.png",
+      "full": "纯代不融合脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
